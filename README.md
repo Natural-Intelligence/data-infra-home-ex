@@ -18,7 +18,7 @@ You have the following data sets:
       and we would like to calculate the conversion rate in Jan 19th we will use the rate of the 17th)
     * conversion_rate_ils - conversion rate between ILS and USD in the same date
    
-2) Discuss the performance of the solution and the given data sources (e.g. file types )    
+2) Discuss the performance of the solution and the given data sources. How can you improve it? implement the suggested solution.
 
 
 # Data Sets
